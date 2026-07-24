@@ -1,0 +1,116 @@
+book_id,title,author,genre,language,publication_year,average_rating,num_ratings,popularity_score,num_pages,description,publisher
+1,Atomic Habits,James Clear,Self Help,English,2018,4.4,7056,54.5,320,"A practical guide to building good habits and breaking bad ones through small, incremental changes.",Avery
+2,The Psychology of Money,Morgan Housel,Business,English,2020,4.54,64696,67.7,256,"Timeless lessons on wealth, greed, and happiness told through short, memorable stories.",Harriman House
+3,Deep Work,Cal Newport,Business,English,2016,3.81,193561,86.6,296,"A guide to focused success in a distracted world through the practice of deep, undistracted work.",Grand Central Publishing
+4,Sapiens,Yuval Noah Harari,History,English,2011,3.64,194661,84.1,443,"A sweeping narrative of how Homo sapiens came to dominate the world through myths, cooperation, and revolutions.",Harper
+5,Homo Deus,Yuval Noah Harari,History,English,2016,4.75,23290,60.0,450,"An exploration of humanity's future as technology reshapes biology, consciousness, and society.",Harper
+6,Educated,Tara Westover,Biography,English,2018,4.33,8831,54.3,334,A memoir of a woman who grows up in a survivalist family and eventually earns a PhD from Cambridge.,Random House
+7,Becoming,Michelle Obama,Biography,English,2018,3.54,57814,57.8,448,An intimate memoir chronicling the former First Lady's journey from Chicago's South Side to the White House.,Crown
+8,The Alchemist,Paulo Coelho,Fiction,English,1988,3.83,158315,72.3,208,"A shepherd boy travels to Egypt in search of treasure, discovering the importance of following one's dreams.",HarperOne
+9,1984,George Orwell,Fiction,English,1949,3.54,52624,38.8,328,"A dystopian vision of a totalitarian future where the Party controls truth, thought, and history.",Secker & Warburg
+10,Animal Farm,George Orwell,Fiction,English,1945,4.5,184348,72.9,112,"A satirical fable about farm animals who overthrow their human owner, only to fall under new tyranny.",Secker & Warburg
+11,To Kill a Mockingbird,Harper Lee,Fiction,English,1960,4.26,58287,48.4,281,A young girl in the American South witnesses her father defend a black man falsely accused of rape.,J.B. Lippincott & Co.
+12,The Great Gatsby,F. Scott Fitzgerald,Classic,English,1925,4.13,73426,47.7,180,"A tragic tale of wealth, love, and the American Dream set in the Jazz Age of Long Island.",Charles Scribner's Sons
+13,Pride and Prejudice,Jane Austen,Romance,English,1813,4.63,2203,37.5,279,"A witty exploration of manners, marriage, and misunderstanding in Georgian England.",T. Egerton
+14,Wuthering Heights,Emily Bronte,Romance,English,1847,4.56,42353,45.0,342,"A dark, passionate tale of love and revenge on the English moors.",Thomas Cautley Newby
+15,Jane Eyre,Charlotte Bronte,Romance,English,1847,4.48,89694,53.8,500,An orphaned governess finds love and independence despite hardship and injustice.,"Smith, Elder & Co."
+16,The Hobbit,J.R.R. Tolkien,Fantasy,English,1937,3.89,56943,42.5,310,A reluctant hobbit joins a company of dwarves on a quest to reclaim treasure from a dragon.,George Allen & Unwin
+17,The Fellowship of the Ring,J.R.R. Tolkien,Fantasy,English,1954,4.84,88736,57.5,423,"A hobbit sets out on a perilous journey to destroy a powerful, corrupting ring.",George Allen & Unwin
+18,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,English,1997,3.64,100095,61.5,309,A young boy discovers he is a wizard and begins his journey at a magical school.,Bloomsbury
+19,A Game of Thrones,George R.R. Martin,Fantasy,English,1996,3.64,222665,81.2,694,Noble families vie for control of the Iron Throne in a land where winter is coming.,Bantam Spectra
+20,The Name of the Wind,Patrick Rothfuss,Fantasy,English,2007,3.98,69842,60.8,662,A legendary figure recounts his youth as a gifted magician and reluctant hero.,DAW Books
+21,Mistborn: The Final Empire,Brandon Sanderson,Fantasy,English,2006,4.63,191794,90.1,541,A young thief with rare magical powers joins a rebellion against an immortal emperor.,Tor Books
+22,Dune,Frank Herbert,Science Fiction,English,1965,4.14,33222,43.7,412,"A young noble navigates politics, prophecy, and survival on a harsh desert planet rich in a valuable spice.",Chilton Books
+23,Foundation,Isaac Asimov,Science Fiction,English,1951,4.86,99730,59.1,255,A mathematician predicts the fall of a galactic empire and sets a plan to shorten the coming dark age.,Gnome Press
+24,Neuromancer,William Gibson,Science Fiction,English,1984,3.61,77354,53.3,271,"A washed-up hacker is hired for one last job in a gritty, cyberpunk future.",Ace Books
+25,Ender's Game,Orson Scott Card,Science Fiction,English,1985,4.66,162641,79.0,324,A gifted child is trained to lead humanity's fleet against an alien threat.,Tor Books
+26,The Martian,Andy Weir,Science Fiction,English,2011,4.74,95300,73.0,369,An astronaut stranded on Mars must use science and ingenuity to survive.,Crown
+27,Brave New World,Aldous Huxley,Science Fiction,English,1932,4.31,185199,71.5,311,A genetically engineered society pursues pleasure and stability at the cost of freedom and individuality.,Chatto & Windus
+28,Fahrenheit 451,Ray Bradbury,Science Fiction,English,1953,3.6,173846,64.4,194,"In a future where books are banned, a fireman tasked with burning them begins to question his world.",Ballantine Books
+29,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,English,2005,3.82,76361,60.3,465,A disgraced journalist and a brilliant hacker investigate a decades-old disappearance.,Norstedts Förlag
+30,Gone Girl,Gillian Flynn,Thriller,English,2012,4.88,224716,95.4,415,A woman's disappearance on her anniversary reveals dark secrets in her marriage.,Crown
+31,The Da Vinci Code,Dan Brown,Thriller,English,2003,3.83,26976,50.0,454,A symbologist unravels a religious mystery hidden within famous works of art.,Doubleday
+32,And Then There Were None,Agatha Christie,Mystery,English,1939,4.03,119358,56.1,272,Ten strangers are lured to an island where they are killed one by one.,Collins Crime Club
+33,The Murder of Roger Ackroyd,Agatha Christie,Mystery,English,1926,4.39,96138,54.3,312,Detective Poirot investigates a murder in a quiet English village with a shocking twist.,William Collins & Sons
+34,Sherlock Holmes: A Study in Scarlet,Arthur Conan Doyle,Mystery,English,1887,3.73,93632,48.6,154,The introduction of detective Sherlock Holmes as he solves a baffling London murder.,Ward Lock & Co.
+35,It,Stephen King,Horror,English,1986,3.79,70486,53.9,1138,"A group of children face an ancient, shape-shifting evil terrorizing their town.",Viking
+36,The Shining,Stephen King,Horror,English,1977,4.48,179687,78.9,447,"A family becomes caretakers of an isolated hotel with a sinister, supernatural presence.",Doubleday
+37,Dracula,Bram Stoker,Horror,English,1897,4.41,160180,67.3,418,A vampire's arrival in England leads to a battle between the undead and a group of determined hunters.,Archibald Constable and Company
+38,Frankenstein,Mary Shelley,Horror,English,1818,4.39,140521,63.2,280,"A scientist creates life from dead tissue, only to be haunted by his own creation.","Lackington, Hughes, Harding, Mavor & Jones"
+39,The Fault in Our Stars,John Green,Young Adult,English,2012,4.52,43334,61.1,313,Two teenagers with cancer fall in love while grappling with mortality and meaning.,Dutton Books
+40,The Hunger Games,Suzanne Collins,Young Adult,English,2008,4.15,71265,62.7,374,A girl volunteers to fight in a televised death match to save her sister in a dystopian nation.,Scholastic Press
+41,Divergent,Veronica Roth,Young Adult,English,2011,4.89,168272,88.8,487,A teenage girl discovers she doesn't fit into any single faction of her divided society.,Katherine Tegen Books
+42,The Perks of Being a Wallflower,Stephen Chbosky,Young Adult,English,1999,4.46,58070,60.2,213,"A shy teenager navigates friendship, love, and trauma through letters to an anonymous friend.",MTV Books
+43,"Thinking, Fast and Slow",Daniel Kahneman,Psychology,English,2011,4.46,221448,91.7,499,A Nobel laureate explains the two systems that drive human thought and decision-making.,"Farrar, Straus and Giroux"
+44,Man's Search for Meaning,Viktor E. Frankl,Psychology,English,1946,4.58,15163,39.7,165,A psychiatrist's account of surviving the Holocaust and discovering purpose through suffering.,Beacon Press
+45,The Power of Habit,Charles Duhigg,Psychology,English,2012,3.82,8914,48.7,371,An exploration of the science behind why habits exist and how they can be changed.,Random House
+46,Quiet,Susan Cain,Psychology,English,2012,4.63,105662,74.5,333,A case for the undervalued power of introverts in an extroverted world.,Crown
+47,Sapiens: A Graphic History,Yuval Noah Harari,History,English,2020,3.87,55807,60.5,256,A vivid illustrated adaptation exploring the origins of human civilization.,Harper
+48,"Guns, Germs, and Steel",Jared Diamond,History,English,1997,4.78,149182,80.4,480,"An examination of why some civilizations conquered others through geography, biology, and technology.",W. W. Norton & Company
+49,The Diary of a Young Girl,Anne Frank,Biography,English,1947,4.73,82990,54.4,283,The poignant wartime diary of a Jewish teenager hiding from the Nazis in Amsterdam.,Contact Publishing
+50,Steve Jobs,Walter Isaacson,Biography,English,2011,3.8,131370,72.7,656,"A comprehensive biography of the visionary co-founder of Apple, based on exclusive interviews.",Simon & Schuster
+51,Elon Musk,Walter Isaacson,Biography,English,2023,4.05,240243,91.6,688,An in-depth biography exploring the ambitions and controversies of the entrepreneur behind Tesla and SpaceX.,Simon & Schuster
+52,Shoe Dog,Phil Knight,Business,English,2016,4.4,37952,60.2,400,The candid memoir of Nike's founder and the early struggles of building a global brand.,Scribner
+53,Zero to One,Peter Thiel,Business,English,2014,3.87,65151,60.8,224,A contrarian guide to building startups that create new markets rather than competing in old ones.,Crown Business
+54,The Lean Startup,Eric Ries,Business,English,2011,4.54,141789,80.7,336,A methodology for developing businesses through validated learning and rapid iteration.,Crown Business
+55,Rich Dad Poor Dad,Robert Kiyosaki,Business,English,1997,3.87,153745,74.1,336,"A personal finance classic contrasting two mindsets toward money, assets, and wealth building.",Warner Books
+56,Good to Great,Jim Collins,Business,English,2001,4.1,153469,76.9,300,A research-based study of what separates good companies from truly great ones.,HarperBusiness
+57,Artificial Intelligence: A Modern Approach,Stuart Russell,Technology,English,1995,4.06,57993,55.9,1152,The definitive textbook covering the theory and practice of modern artificial intelligence.,Prentice Hall
+58,Deep Learning,Ian Goodfellow,Technology,English,2016,4.9,36762,63.9,800,"A comprehensive introduction to deep learning covering theory, algorithms, and applications.",MIT Press
+59,The Innovators,Walter Isaacson,Technology,English,2014,4.21,24331,55.4,542,"The story of the people who built the computer and the internet, from Ada Lovelace to Silicon Valley.",Simon & Schuster
+60,Clean Code,Robert C. Martin,Technology,English,2008,4.56,226232,91.7,464,"A guide to writing readable, maintainable, and elegant software through disciplined practices.",Prentice Hall
+61,The Pragmatic Programmer,Andrew Hunt,Technology,English,1999,3.65,164981,75.1,352,"Practical advice for software developers on craftsmanship, tools, and career growth.",Addison-Wesley
+62,Life 3.0,Max Tegmark,AI,English,2017,3.72,178884,83.2,384,An exploration of what artificial intelligence means for the future of life on Earth and beyond.,Knopf
+63,Superintelligence,Nick Bostrom,AI,English,2014,4.09,17153,53.0,328,"An analysis of the potential paths, dangers, and strategies surrounding superintelligent AI.",Oxford University Press
+64,Human Compatible,Stuart Russell,AI,English,2019,4.04,156708,81.8,336,A leading AI researcher proposes a new approach to keep intelligent machines aligned with human values.,Viking
+65,The Alignment Problem,Brian Christian,AI,English,2020,4.89,139204,85.4,496,An investigation into how machine learning systems can be made to reflect genuine human values.,W. W. Norton & Company
+66,A Brief History of Time,Stephen Hawking,Science,English,1988,3.85,145524,69.9,256,"An accessible exploration of cosmology, black holes, and the origins of the universe.",Bantam Books
+67,Cosmos,Carl Sagan,Science,English,1980,4.71,3509,46.3,365,"A journey through the universe blending astronomy, history, and philosophy.",Random House
+68,The Selfish Gene,Richard Dawkins,Science,English,1976,4.45,30529,48.5,224,A gene-centered view of evolution that reshaped how biologists understand natural selection.,Oxford University Press
+69,Astrophysics for People in a Hurry,Neil deGrasse Tyson,Science,English,2017,4.45,141263,81.5,224,"A concise, accessible tour of the cosmos for readers short on time but curious about everything.",W. W. Norton & Company
+70,The Origin of Species,Charles Darwin,Science,English,1859,4.55,201983,76.4,502,The foundational text introducing the theory of evolution through natural selection.,John Murray
+71,Meditations,Marcus Aurelius,Philosophy,English,180,4.4,29742,41.1,254,"The private reflections of a Roman emperor on virtue, duty, and the nature of life.",Public Domain
+72,The Republic,Plato,Philosophy,English,-380,3.91,41960,39.7,416,"A Socratic dialogue examining justice, the ideal state, and the nature of the philosopher-king.",Public Domain
+73,Beyond Good and Evil,Friedrich Nietzsche,Philosophy,English,1886,4.14,189792,71.1,240,"A critique of past philosophers and traditional morality, proposing a new philosophy of power.",C. G. Naumann
+74,The Stranger,Albert Camus,Philosophy,French,1942,4.73,69545,51.7,123,"A detached man's indifferent reaction to his mother's death leads to a fateful, absurd crime.",Gallimard
+75,Man and His Symbols,Carl Jung,Psychology,English,1964,4.86,200243,82.6,320,An accessible introduction to Jung's theories of the unconscious and the meaning of dreams.,Doubleday
+76,One Hundred Years of Solitude,Gabriel Garcia Marquez,Fiction,Spanish,1967,3.75,239739,74.5,417,A multigenerational saga of the Buendia family in the mythical town of Macondo.,Harper & Row
+77,Love in the Time of Cholera,Gabriel Garcia Marquez,Romance,Spanish,1985,3.65,164418,71.3,348,"A decades-spanning tale of unrequited love, patience, and devotion.",Editorial Oveja Negra
+78,The Little Prince,Antoine de Saint-Exupery,Fiction,French,1943,3.92,167996,65.0,96,A stranded pilot meets a young prince who shares tales of his travels and reflections on life.,Reynal & Hitchcock
+79,Crime and Punishment,Fyodor Dostoevsky,Classic,Russian,1866,4.21,52643,44.2,671,A poor student's murder of a pawnbroker spirals into a psychological study of guilt and redemption.,The Russian Messenger
+80,War and Peace,Leo Tolstoy,Classic,Russian,1869,3.71,200387,69.7,1225,"An epic chronicle of Russian society during the Napoleonic era, following five aristocratic families.",The Russian Messenger
+81,Anna Karenina,Leo Tolstoy,Classic,Russian,1878,3.73,204612,69.8,864,"A tragic tale of love, betrayal, and society in Imperial Russia.",The Russian Messenger
+82,Don Quixote,Miguel de Cervantes,Classic,Spanish,1605,4.79,241277,78.3,863,The adventures of a nobleman who loses his sanity and sets out as a chivalrous knight-errant.,Francisco de Robles
+83,The Metamorphosis,Franz Kafka,Classic,German,1915,3.5,85475,45.1,96,A traveling salesman wakes to find himself transformed into a giant insect.,Kurt Wolff Verlag
+84,Norwegian Wood,Haruki Murakami,Fiction,Japanese,1987,4.18,29825,49.1,296,A nostalgic tale of love and loss among Japanese university students in the 1960s.,Kodansha
+85,Kafka on the Shore,Haruki Murakami,Fiction,Japanese,2002,4.8,230851,92.1,505,"A surreal, dreamlike story following a runaway teenager and an elderly man who talks to cats.",Shinchosha
+86,The Book Thief,Markus Zusak,Fiction,English,2005,4.88,211991,93.5,552,"A young girl in Nazi Germany finds solace in stolen books, narrated by Death himself.",Picador
+87,Life of Pi,Yann Martel,Fiction,English,2001,3.93,15684,48.0,319,A boy survives a shipwreck and is stranded on a lifeboat with a Bengal tiger.,Knopf Canada
+88,The Kite Runner,Khaled Hosseini,Fiction,English,2003,3.84,149229,74.5,371,"A story of friendship, guilt, and redemption set against the backdrop of Afghanistan's turmoil.",Riverhead Books
+89,A Thousand Splendid Suns,Khaled Hosseini,Fiction,English,2007,4.83,22953,58.2,367,"The intertwined lives of two Afghan women bound by war, sacrifice, and hope.",Riverhead Books
+90,The Handmaid's Tale,Margaret Atwood,Fiction,English,1985,4.52,214415,85.4,311,"A dystopian society strips women of autonomy in a totalitarian, theocratic regime.",McClelland & Stewart
+91,Beloved,Toni Morrison,Fiction,English,1987,3.6,199887,78.5,324,"A former slave is haunted by the ghost of the daughter she lost, confronting the horrors of slavery.",Alfred A. Knopf
+92,The Road,Cormac McCarthy,Fiction,English,2006,4.25,33467,55.4,287,"A father and son journey through a desolate, post-apocalyptic America in search of survival.",Alfred A. Knopf
+93,Slaughterhouse-Five,Kurt Vonnegut,Science Fiction,English,1969,3.68,125092,59.5,275,"A soldier becomes unstuck in time, reliving the firebombing of Dresden and encounters with aliens.",Delacorte Press
+94,Catch-22,Joseph Heller,Fiction,English,1961,4.83,43787,50.3,453,A satirical look at the absurdity and bureaucracy of war through the eyes of a bombardier.,Simon & Schuster
+95,The Catcher in the Rye,J.D. Salinger,Fiction,English,1951,3.87,229203,71.2,277,A disillusioned teenager wanders New York City reflecting on innocence and phoniness.,"Little, Brown and Company"
+96,Lord of the Flies,William Golding,Fiction,English,1954,4.35,56021,47.1,224,Stranded boys descend into savagery as they attempt to govern themselves on a deserted island.,Faber and Faber
+97,Brave New Habits,Nir Eyal,Self Help,English,2019,4.8,198488,96.3,256,Practical strategies for staying focused and building indistractable habits in a noisy world.,BenBella Books
+98,The 7 Habits of Highly Effective People,Stephen R. Covey,Self Help,English,1989,4.52,53230,57.1,381,A principle-centered approach to personal and professional effectiveness.,Free Press
+99,How to Win Friends and Influence People,Dale Carnegie,Self Help,English,1936,4.5,105093,57.0,291,"Timeless advice on building relationships, persuasion, and effective communication.",Simon & Schuster
+100,The Subtle Art of Not Giving a F*ck,Mark Manson,Self Help,English,2016,4.89,170861,90.7,224,A counterintuitive approach to living a good life by focusing only on what truly matters.,HarperOne
+101,Can't Hurt Me,David Goggins,Self Help,English,2018,4.02,236328,90.1,364,A former Navy SEAL's account of overcoming adversity through extreme mental toughness.,Lioncrest Publishing
+102,Ikigai,Hector Garcia,Self Help,Spanish,2016,4.22,32220,57.6,208,"A Japanese concept of finding purpose at the intersection of passion, mission, vocation, and profession.",Penguin Life
+103,The Midnight Library,Matt Haig,Fiction,English,2020,3.85,17284,52.7,304,A woman explores infinite alternate lives through a mysterious library between life and death.,Canongate Books
+104,Where the Crawdads Sing,Delia Owens,Fiction,English,2018,3.97,154721,80.6,384,A reclusive girl raised in the marshes becomes a murder suspect in a small coastal town.,G.P. Putnam's Sons
+105,Verity,Colleen Hoover,Romance,English,2018,4.28,154756,83.1,336,A struggling writer uncovers dark secrets while finishing a bestselling author's final book series.,Grand Central Publishing
+106,It Ends with Us,Colleen Hoover,Romance,English,2016,3.81,19110,51.7,384,"A woman confronts painful truths about love, family, and breaking generational cycles.",Atria Books
+107,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Romance,English,2017,4.49,15933,56.7,400,A reclusive Hollywood icon finally reveals the truth of her extraordinary and scandalous life.,Atria Books
+108,Project Hail Mary,Andy Weir,Science Fiction,English,2021,3.82,237850,89.2,476,"A lone astronaut wakes with no memory, tasked with saving humanity from extinction.",Ballantine Books
+109,Klara and the Sun,Kazuo Ishiguro,Science Fiction,English,2021,3.54,87119,64.4,303,"An artificial friend observes and learns about human love, loneliness, and hope.",Faber and Faber
+110,The Silent Patient,Alex Michaelides,Thriller,English,2019,3.6,62891,59.5,336,A woman's shocking act of violence and her subsequent silence unravel in a gripping psychological thriller.,Celadon Books
+111,Atomic Design,Brad Frost,Technology,English,2016,3.89,127748,74.0,145,"A methodology for creating design systems using reusable, composable interface components.",Self-Published
+112,Designing Data-Intensive Applications,Martin Kleppmann,Technology,English,2017,3.8,35184,55.1,616,"A deep dive into the architecture and trade-offs behind reliable, scalable data systems.",O'Reilly Media
+113,You Don't Know JS,Kyle Simpson,Technology,English,2015,4.51,231811,93.2,278,A deep exploration of the core mechanisms of the JavaScript language.,O'Reilly Media
+114,Hands-On Machine Learning,Aurelien Geron,AI,English,2017,4.3,124407,76.9,851,"A practical guide to building machine learning systems using Scikit-Learn, Keras, and TensorFlow.",O'Reilly Media
+115,The Hundred-Page Machine Learning Book,Andriy Burkov,AI,English,2019,3.84,124487,73.8,160,"A concise, accessible overview of the essential concepts in machine learning.",Andriy Burkov
